@@ -1,0 +1,5 @@
+<template name="ComponentLoading">
+  <view wx:if="{{show}}" class='ComponentLoading-loading' bindtap="{{ComponentLoadingEvent}}">
+    <view class="ComponentLoading-loading-icon"></view>
+  </view>
+</template>

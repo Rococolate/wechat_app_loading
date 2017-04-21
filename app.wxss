@@ -1,0 +1,7 @@
+/**app.wxss**/
+@import './page/component/loading/loading.wxss';
+
+page{
+  width: 100%;
+  height: 100%;
+}
